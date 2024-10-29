@@ -1,0 +1,4 @@
+/service_consumer/node_modules
+/service_consumer/.env
+/service_producer/node_modules
+/service_producer/.env
