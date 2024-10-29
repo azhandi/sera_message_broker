@@ -1,8 +1,4 @@
-
-function validateEmail(email) {
+export function validateEmail(email: string): boolean {
     const emailRegex = /^[^\s@]+@[^\s@]+(\.[^\s@]+)+$/
     return emailRegex.test(email) && !/\.{2,}/.test(email)
 }
-
-
-module.exports = { validateEmail }
