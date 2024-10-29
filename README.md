@@ -15,4 +15,4 @@ Follow these steps to set up the project on your local machine:
 10. Make sure to include body properties: 'to' (email reciever), 'subject' (email subject), 'text' (email body)
 
 ## Dependencies
-This project uses the following dependencies: - Express.js - dotenv - Amqplib  - Nodemailer
+This project uses the following dependencies: - Express.js - dotenv - Amqplib  - Nodemailer - Typescript
