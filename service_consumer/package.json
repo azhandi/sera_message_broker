@@ -3,5 +3,10 @@
     "amqplib": "^0.10.4",
     "dotenv": "^16.4.5",
     "nodemailer": "^6.9.16"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.10.5",
+    "@types/nodemailer": "^6.4.16",
+    "ts-node": "^10.9.2"
   }
 }
